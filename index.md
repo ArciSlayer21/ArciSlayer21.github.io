@@ -4,7 +4,7 @@ This is my home page! My name is Alexander Arciniega, and I am a student at [Cal
 
 ## Computer Science Projects
 		
-My GitHub page is https://github.com/ArciSlayer21.
+My GitHub page is https://github.com/ArciSlayer21/.
 
 ### Favorite CPSC 120L Labs
 
